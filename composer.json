@@ -1,0 +1,23 @@
+{
+	"keywords" : [
+		"phalcon-extensions"
+	],
+	"autoload" : {
+		"psr-4" : {
+			"PhalconExtensions\\" : "src"
+		}
+	},
+    "name": "phalcon-framwork/extensions",
+    "description": "phalcon extensions for phalcon-framwork",
+    "type": "phalcon-extensions",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "zhaoyang",
+            "email": "1134856531@qq.com"
+        }
+    ],
+    "require": {
+    	"php" : ">=7.0"
+    }
+}
