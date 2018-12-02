@@ -14,7 +14,8 @@
     "authors": [
         {
             "name": "zhaoyang",
-            "email": "1134856531@qq.com"
+            "email": "1134856531@qq.com",
+	      	"homepage": "https://github.com/zhaoyang1214"
         }
     ],
     "require": {
